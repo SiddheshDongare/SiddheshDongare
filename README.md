@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshdongare&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshdongare" /> </p>
 
-- 🔭 I’m currently working on **Fast Smoke & Flame Detection Based on Lightweight Deep Neural Network**
+- 🔭 I'm currently developing an **Inventory Management System** using **Flask API** and integrating it with **Postman** for **API testing**.
 
 - 🌱 I’m currently learning **Python, JAVA**
 
 - 📫 Reach me on **siddheshdongare43@gmail.com**
 
-- ⚡Fun fact **I'm a huge fan of thriller mystery books 🦇🦇**
+- ⚡Fun fact **I'm a huge fan of mystery books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
