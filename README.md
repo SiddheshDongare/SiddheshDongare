@@ -11,7 +11,7 @@
 
 - 📫 Reach me on **siddheshdongare43@gmail.com**
 
-- ⚡Fun fact **I'm a huge fan of mystery books.**
+- ⚡Fun Fact: **I'm a huge fan of mystery books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
