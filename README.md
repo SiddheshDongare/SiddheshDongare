@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhesh/h1>
+<h1 align="center">Hi 👋, I'm Siddhesh</h1>
 <h3 align="center">Software Developer with an Insatiable Curiosity | Pursuing a Path of Endless Learning</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
