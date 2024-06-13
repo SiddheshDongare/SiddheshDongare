@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Siddhesh and I'm a SDE, from India.</h2>
+<h2 align="center">Hi 👋! My name is Siddhesh and I'm a Software Developer.</h2>
 
 ###
 
